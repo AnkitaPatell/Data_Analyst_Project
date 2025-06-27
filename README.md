@@ -1,23 +1,22 @@
-# INTERNSHIP_PROJECT_PHASE
 
-# 🏥 Healthcare Appointment No-Show Prediction
+#  Healthcare Appointment No-Show Prediction
 
 This project aims to predict whether patients will miss their scheduled medical appointments using a real-world dataset. Missed appointments are a common challenge in healthcare, leading to inefficient scheduling and resource wastage. By identifying key patterns in patient behavior, this model supports better decision-making to reduce no-shows and improve service delivery.
 
 ---
 
-## 📌 Objective
+##  Objective
 To build a predictive model that classifies patients as likely to show or not show for their appointments, and to provide actionable insights for healthcare providers.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python**: Pandas, Scikit-learn
 - **Power BI**: For data visualization and dashboard reporting
 
 ---
 
-## 📈 Steps Involved
+##  Steps Involved
 - Data cleaning and preprocessing (removed irrelevant columns, renamed fields, handled dates)
 - Feature engineering (e.g., waiting time, day of the week)
 - Encoded categorical variables
@@ -27,14 +26,14 @@ To build a predictive model that classifies patients as likely to show or not sh
 
 ---
 
-## 📊 Deliverables
+##  Deliverables
 - Trained ML model to predict appointment no-shows
 - Power BI dashboard for exploratory insights
 - Recommendations for scheduling optimization (e.g., send SMS to younger patients, avoid peak no-show days)
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Source: [Kaggle - No-show Appointments Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
 
 ---
