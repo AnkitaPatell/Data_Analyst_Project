@@ -27,9 +27,10 @@ To build a predictive model that classifies patients as likely to show or not sh
 ---
 
 ##  Deliverables
-- Trained ML model to predict appointment no-shows
-- Power BI dashboard for exploratory insights
+- Trained ML model to predict appointment no-shows (Healthcare_Appointment_No-Show_Prediction_Project.ipynb)
+- Power BI dashboard for exploratory insights (Appointment No-Show_Power_BI_Dashboard.pbix)
 - Recommendations for scheduling optimization (e.g., send SMS to younger patients, avoid peak no-show days)
+- Project report (Healthcare_Appointment_No_Show_Report.docx)
 
 ---
 
